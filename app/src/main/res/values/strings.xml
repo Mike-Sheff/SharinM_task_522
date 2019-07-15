@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Экспорт внутреннего файла во внешний и обратно</string>
+    <string name="textTextView">Выбран язык - Русский</string>
+    <string name="textTextLang">Языки:</string>
+    <string-array name="lang">
+        <item>Русский</item>
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Немецкий</item>
+    </string-array>
+    <string name="textButton">Выбрать</string>
+    <string name="loginText" translatable="false">Login:</string>
+    <string name="passwordText" translatable="false">Password:</string>
+    <string name="buttonOK" translatable="false">OK</string>
+    <string name="buttonRegistration" translatable="false">REGISTRATION</string>
+    <string name="textAlarmLogin" translatable="false">Alarm: Login not entered!</string>
+    <string name="textAlarmPassword" translatable="false">Alarm: Password not entered!</string>
+    <string name="loginFileName" translatable="false">login_file</string>
+    <string name="passwordFileName" translatable="false">password_file</string>
+    <string name="textErrorNoEntered" translatable="false">Error:  No login or password entered!</string>
+    <string name="textErrorChech" translatable="false">Error: Check your login or password!</string>
+    <string name="textMessageGood" translatable="false">Very good! Login: %s Password: %s</string>
+    <string name="textButtonClear" translatable="false">Clear</string>
+    <string name="textMessageSave" translatable="false">Сохранено во внутренний файл</string>
+    <string name="textMessageClear" translatable="false">Cleared login or password!</string>
+    <string name="textButtonSettings" translatable="false">Settings</string>
+</resources>
+

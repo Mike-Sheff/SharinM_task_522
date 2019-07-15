@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+         <string name = "app_name">Экспорт внутреннего файла во внешний и обратно</string>
+         <string name = "textTextView"> Sprache ausgewählt - Deutsch</string>
+         <string name = "textTextLang"> Sprachen: </string>
+    <string-array name = "lang">
+             <item> Russisch </item>
+             <item> Englisch </item>
+             <item> Französisch </item>
+             <item> Deutsch </item>
+         </string-array>
+    <string name="textButton">Wählen Sie</string>
+</resources>
